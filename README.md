@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Caso queira entrar em contato comigo, minhas redes sociais abaixo!
+  ### Caso queira entrar em contato comigo, minhas redes sociais estão abaixo!
  
 <div> 
   <a href = "mailto:vitorgosantosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
